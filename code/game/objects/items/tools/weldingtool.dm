@@ -391,6 +391,7 @@
 	desc = "A modern welding tool combined with an alien welding tool, it never runs out of fuel and works almost as fast."
 	icon = 'icons/obj/advancedtools.dmi'
 	icon_state = "welder"
+	w_class = WEIGHT_CLASS_TINY
 	toolspeed = 0.2
 	light_range = 0
 	change_icons = 0
